@@ -20,6 +20,7 @@
 					<h1><strong>Johannes Horst</strong><!--, a super simple<br />
 					responsive site template freebie<br />
 					crafted by <a href="http://html5up.net">HTML5 UP</a>.--></h1>
+					<br>crafted by <a href="http://html5up.net">HTML5 UP</a></br>
 				</div>
 			</header>
 
@@ -70,7 +71,7 @@
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/06.png" class="image fit thumb"><img src="images/thumbs/6.png" alt="" /></a>
 								<h3>Sensorstationen</h3>
-								<p>Ein Netzwerk aus Sensorknoten, welches verschiedene Umweltdaten erfasst. Diese Daten werden Zentral gesammelt und können über eine Webseite ausgelesen werden.</p>
+								<p>Ein Netzwerk aus Sensorknoten, welches verschiedene Umweltdaten erfasst. Diese Daten werden zentral gesammelt und können über eine Webseite ausgelesen werden.</p>
 							</article>
 						</div>
 					<!--
