@@ -60,12 +60,12 @@
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/04.png" class="image fit thumb"><img src="images/thumbs/4.png" alt="" /></a>
 								<h3>Alarmwatch</h3>
-								<p>Eine Armbanduhr, die entweder auf anfrage oder automatisch in Notfällen ihren Standort an Notfallkontakte senden kann. Diese Uhr wurde im Modul "Physical Computing" erstellt und ist für ältre Menschen gedacht.</p>
+								<p>Eine Armbanduhr, die entweder auf anfrage oder automatisch in Notfällen ihren Standort an Notfallkontakte senden kann. Diese Uhr wurde im Modul "Physical Computing" erstellt und ist für ältere Menschen gedacht.</p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/05.png" class="image fit thumb"><img src="images/thumbs/5.png" alt="" /></a>
 								<h3>Projekt Electromusik</h3>
-								<p>Eine Funktenstrecke, welches remote über Raspberry Pies angesteuert werden kann. Die Funktenstrecke kann Musik abspielen. Außerdem wird über andere Raspberry Pies die Musik über Raspberry Pies visualisiert. </p>
+								<p>Eine Funkenstrecke, welches remote über Raspberry Pies angesteuert werden kann. Die Funktenstrecke kann Musik abspielen. Außerdem wird über andere Raspberry Pies die Musik über Raspberry Pies visualisiert. </p>
 							</article>
 							<article class="col-6 col-12-xsmall work-item">
 								<a href="images/fulls/06.png" class="image fit thumb"><img src="images/thumbs/6.png" alt="" /></a>
